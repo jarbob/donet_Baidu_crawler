@@ -1,0 +1,16 @@
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Release\Collecting.exe.config
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Release\Collecting.exe.manifest
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Release\Collecting.application
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Release\Collecting.exe
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Release\Collecting.pdb
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Release\HtmlAgilityPack.dll
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Release\HtmlAgilityPack.pdb
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Release\HtmlAgilityPack.xml
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Release\Collecting.MainForm.resources
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Release\Collecting.Properties.Resources.resources
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Release\Collecting.csproj.GenerateResource.Cache
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Release\Collecting.exe.manifest
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Release\Collecting.application
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Release\Collecting.exe
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Release\Collecting.pdb
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Release\Collecting.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Debug\Collecting.exe.config
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Debug\Collecting.exe
+E:\cSharpProject\Projects\Collecting\Collecting\bin\Debug\Collecting.pdb
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Debug\Collecting.csprojResolveAssemblyReference.cache
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Debug\Collecting.MainForm.resources
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Debug\Collecting.Properties.Resources.resources
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Debug\Collecting.csproj.GenerateResource.Cache
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Debug\Collecting.exe
+E:\cSharpProject\Projects\Collecting\Collecting\obj\Debug\Collecting.pdb
